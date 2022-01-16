@@ -1,0 +1,4 @@
+name: TreeCutting
+version: '${project.version}'
+main: me.waterbroodje.treecutting.Main
+authors: [ Waterbroodje ]
